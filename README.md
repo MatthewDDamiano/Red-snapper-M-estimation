@@ -13,4 +13,4 @@ Can natural mortality be internally estimated within the stock assessment of Sou
 
 https://doi.org/10.1016/j.fishres.2026.107789
 
-Reach out to Matt Damiano at matt.damiano@deq.nc.gov for a copy of the manuscript
+Reach out to Matt Damiano at matt.damiano@deq.nc.gov with any questions or for a copy of the manuscript
