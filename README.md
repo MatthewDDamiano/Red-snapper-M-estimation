@@ -10,5 +10,7 @@ The Profiling folder contains a Results folder, which contains a copy of the bas
 
 Associated publication:
 Can natural mortality be internally estimated within the stock assessment of Southeast United States Atlantic red snapper (Lutjanus campechanus)?
+
 https://doi.org/10.1016/j.fishres.2026.107789
+
 Reach out to Matt Damiano at matt.damiano@deq.nc.gov for a copy of the manuscript
